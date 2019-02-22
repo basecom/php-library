@@ -1,0 +1,16 @@
+{
+    "name": "sweikenb/php-library",
+    "description": "Some useful (and mostly decoupled) php classes for common tasks.",
+	"keywords": ["php", "library", "pcntl", "deamon", "thread"],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Simon Schröer",
+            "email": "code@sweikenb.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "sweikenb\\Library": "" }
+    }
+}
